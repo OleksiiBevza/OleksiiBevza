@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Oleksii Bevza 👋
 
+I am a Machine Learning Researcher specializing in statistical computing and high-performance ML. I recently completed my Master's in Data Science at Utrecht University. Much of my work revolves around building high-performance systems, particularly using JAX to accelerate Bayesian data analysis.
+
+What I'm currently working on:
+
+* **[jaxpsmc](https://github.com/OleksiiBevza/jaxpsmc):** A JAX-based package designed for fast inference on both CPU and GPU.
 <!--
 **OleksiiBevza/OleksiiBevza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
