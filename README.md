@@ -5,7 +5,7 @@ Machine learning researcher focused on statistical computing, Bayesian inference
 What I'm currently working on:
 
 * **[jaxpsmc](https://github.com/OleksiiBevza/jaxpsmc):** A JAX-based package designed for fast inference on both CPU and GPU.
-* **[ML-Self-Study-Curriculum](https://github.com/OleksiiBevza/ML-Self-Study-Curriculum)** Rigorous ML/math/CS roadmap
+* **[ML-Self-Study-Curriculum](https://github.com/OleksiiBevza/ML-Self-Study-Curriculum)** Rigorous ML/math/CS roadmap (undergrad/postgrad/PhD topics)
 <!--
 **OleksiiBevza/OleksiiBevza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
